@@ -35,7 +35,7 @@
             // 
             this.btnAffiche.Location = new System.Drawing.Point(336, 208);
             this.btnAffiche.Name = "btnAffiche";
-            this.btnAffiche.Size = new System.Drawing.Size(135, 23);
+            this.btnAffiche.Size = new System.Drawing.Size(135, 36);
             this.btnAffiche.TabIndex = 0;
             this.btnAffiche.Text = "btnAffiche";
             this.btnAffiche.UseVisualStyleBackColor = true;
