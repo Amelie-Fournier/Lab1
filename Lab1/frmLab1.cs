@@ -20,6 +20,7 @@ namespace Lab1
         private void btnAffiche_Click(object sender, EventArgs e)
         {
             //Test
+            //Commentaire 2
         }
     }
 }
