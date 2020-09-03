@@ -17,10 +17,21 @@ namespace Lab1
             InitializeComponent();
         }
 
-        private void btnAffiche_Click(object sender, EventArgs e)
+        private void btnHexa_Click(object sender, EventArgs e)
         {
-            //Test
-            //Commentaire 2
+            //convert.toInt
+            //modulo
+            //Valeur = Entree / 16
+            //Reste = Entree modulo 16
+            //résultat = résultat + Reste (gauche à droite)
+        }
+
+        private void btnBinaire_Click(object sender, EventArgs e)
+        {
+            //Valeur = Entree / 2 (et ainsi de suite)
+            //Reste = Entree modulo 2
+            //résultat = Reste + résultat (droite à gauche)
+            //valeur != 0
         }
     }
 }
