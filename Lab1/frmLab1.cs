@@ -16,5 +16,10 @@ namespace Lab1
         {
             InitializeComponent();
         }
+
+        private void btnAffiche_Click(object sender, EventArgs e)
+        {
+            //Test
+        }
     }
 }
